@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=Valensce&show_icons=true&locale=en&theme=tokyonight"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Valensce&theme=tokyonight"></a><br><br
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
-	<img src="https://metrics.lecoq.io/Valensce?template=classic&isocalendar=1&achievements=1&lines=1&repositories=1&people=1&notable=1&discussions=1&gists=1&introduction=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Australia%2FBrisbane">
+	<img href="https://github.com/Valensce" src="https://metrics.lecoq.io/Valensce?template=classic&isocalendar=1&achievements=1&lines=1&repositories=1&people=1&notable=1&discussions=1&gists=1&introduction=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Australia%2FBrisbane">
 </p></details>
 <hr>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
+<img align="center" href="https://github.com/Valensce" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
 <hr>
-<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
+<img align="center" href="https://github.com/Valensce" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
