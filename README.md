@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center"> 
 <div align="left">
 	
-</div><hr>
+</div><img src="line.gif" width="100%">
 <details><summary><h1>Show me stats</h1></summary>
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=Valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
@@ -36,10 +36,15 @@ Here are some ideas to get you started:
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
 	<img href="https://github.com/Valensce" src="https://metrics.lecoq.io/Valensce?template=classic&isocalendar=1&achievements=1&lines=1&repositories=1&people=1&notable=1&discussions=1&gists=1&introduction=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Australia%2FBrisbane">
 </p></details>
-<hr>
+<img src="line.gif" width="100%">
+<img src="cherryblossomzerotwo.gif" width="100%">
+<img src="line.gif" width="100%">
 <img align="center" href="https://github.com/Valensce" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
-<hr>
-<img align="center" href="https://github.com/Valensce" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
+<img src="line.gif" width="100%">
+<img src="zerotwokiss1.gif">
+<img src="line.gif" width="100%">
+<img align="center" href="https://github.com/Valensce" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><img src="line.gif" width="100%">
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
+<img src="line.gif" width="100%">
